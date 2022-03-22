@@ -1,0 +1,14 @@
+## Ideas: ##
+* find conspiracy influencers and science influencers and compare their tweets (Twitter)
+* use subreddit conspiracy theories
+* subreddits qanon, covid ...
+* classify tweets per hand
+* compare r/news and r/conspiracy
+
+### Conspiracy subreddits ###
+* source : https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17907/17025
+* CHEMPRINTS Bilderberg
+* conspiracyhub greenlight2
+* WhiteNationalism greenlight
+* HealthConspiracy OccupyLangley
+* mysterybabylon moonhoax
