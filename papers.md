@@ -1,0 +1,25 @@
+## Papers ##
+
+* https://journals.sagepub.com/doi/full/10.1177/1368430220987596
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6860422/
+* http://ceur-ws.org/Vol-2882/paper64.pdf
+* https://github.com/matzeschmo/bachelor_hate_speech_detection
+* https://hal.inria.fr/hal-03482254/document
+* https://link.springer.com/article/10.3758/s13428-021-01698-z
+
+## Datasets ##
+* 2020: https://datasets.simula.no/wico-graph/
+* 2021: https://dl.acm.org/doi/abs/10.1145/3472720.3483617
+* https://www.kaggle.com/datasets/gpreda/reddit-conspiracy-theory
+
+
+## Subreddits ##
+* https://sciencecommunicationbreakdown.wordpress.com/2014/08/12/victoria-taylor-reddit-guest/
+* r/worldnews
+* r/news
+* https://www.reddit.com/r/Coronavirus/
+
+## Reddit tools
+* extract content https://github.com/gabrielpreda/reddit_extract_content
+
+
