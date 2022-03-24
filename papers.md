@@ -6,6 +6,7 @@
 * https://github.com/matzeschmo/bachelor_hate_speech_detection
 * https://hal.inria.fr/hal-03482254/document
 * https://link.springer.com/article/10.3758/s13428-021-01698-z
+* https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0225098
 
 ## Datasets ##
 * 2020: https://datasets.simula.no/wico-graph/
