@@ -1,4 +1,4 @@
-## Ideas: ##
+## Data Scraping ##
 * find conspiracy influencers and science influencers and compare their tweets (Twitter)
 * use subreddit conspiracy theories
 * subreddits qanon, covid ...
@@ -12,3 +12,10 @@
 * WhiteNationalism greenlight
 * HealthConspiracy OccupyLangley
 * mysterybabylon moonhoax
+
+## Data Analysis ##
+* which topics are prevalent
+* which emotions are prevalent
+* what are the most used words
+*
+*
