@@ -1,8 +1,8 @@
 ## Papers ##
 
 * Pathways to conspiracy: https://journals.sagepub.com/doi/full/10.1177/1368430220987596
-** how r/conspiracy users differ from other users - personality traits
-** compare r/conspiracy users to people who post in similar subreddits but not conspiracy
+  * how r/conspiracy users differ from other users - personality traits
+  * compare r/conspiracy users to people who post in similar subreddits but not conspiracy
 * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6860422/
 * http://ceur-ws.org/Vol-2882/paper64.pdf
 * https://github.com/matzeschmo/bachelor_hate_speech_detection
