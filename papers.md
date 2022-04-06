@@ -1,13 +1,16 @@
 ## Papers ##
 
-* Pathways to conspiracy: https://journals.sagepub.com/doi/full/10.1177/1368430220987596
+* Pathways to conspiracy - Reddit: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6860422/
   * how r/conspiracy users differ from other users - personality traits
   * compare r/conspiracy users to people who post in similar subreddits but not conspiracy
   * Language in conspiracy theories: Samory M, Mitra T. ‘the government spies using our webcams’: The language of conspiracy theories in online discussions. In: Karahalios K, Monroy-Hernandez A, Lampinen A, Fitzpatrick G, editors. Proceedings of the ACM on Human-Computer Interaction, 2(CSCW), 152; 2018
   * Empath: detect which words are used frequently
   * group subreddits by theme
   * results not very clear
-* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6860422/
+* Language of conspiracy - Twitter: https://journals.sagepub.com/doi/full/10.1177/1368430220987596
+ * compare 5 conspiracy influencer and followers to 5 science influencers + community
+ * focus on outgroup, death, power, religion, negative emotions
+ * feelings of powerlessness and desire of cognitive closure
 * http://ceur-ws.org/Vol-2882/paper64.pdf
 * https://github.com/matzeschmo/bachelor_hate_speech_detection
 * https://hal.inria.fr/hal-03482254/document
