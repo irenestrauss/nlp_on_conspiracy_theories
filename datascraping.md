@@ -17,5 +17,7 @@
 * which topics are prevalent
 * which emotions are prevalent
 * what are the most used words
-*
-*
+* statistical analysis - how often do authors post, comment etc.
+* what are the main topics
+* nlp train model?
+* use LOCO for nlp training?
