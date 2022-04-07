@@ -18,6 +18,8 @@
   * use different models (BERT) to detect conspiracy in tweets 
 * https://link.springer.com/article/10.3758/s13428-021-01698-z
   * LOCO: composed of conspiracy theories and mainstream websites
+* http://ceur-ws.org/Vol-2882/paper68.pdf
+* http://ceur-ws.org/Vol-2882/paper76.pdf
 
 ## Datasets ##
 * 2020: https://datasets.simula.no/wico-graph/
