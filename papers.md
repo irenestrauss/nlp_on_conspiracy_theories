@@ -11,11 +11,13 @@
  * compare 5 conspiracy influencer and followers to 5 science influencers + community
  * focus on outgroup, death, power, religion, negative emotions
  * feelings of powerlessness and desire of cognitive closure
-* http://ceur-ws.org/Vol-2882/paper64.pdf
+* Twitter: http://ceur-ws.org/Vol-2882/paper64.pdf
+ * classifying by hand in conspiracy and non-conspiracy 
 * https://github.com/matzeschmo/bachelor_hate_speech_detection
 * https://hal.inria.fr/hal-03482254/document
+ * use different models (BERT) to detect conspiracy in tweets 
 * https://link.springer.com/article/10.3758/s13428-021-01698-z
-* https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0225098
+ * LOCO: composed of conspiracy theories and mainstream websites
 
 ## Datasets ##
 * 2020: https://datasets.simula.no/wico-graph/
