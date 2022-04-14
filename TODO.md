@@ -18,3 +18,6 @@ https://www.analyticsvidhya.com/blog/2020/11/text-cleaning-nltk-library/
 - [ ] length of comments 
 - [ ] removed comments
 - [ ] ...
+
+
+https://towardsdatascience.com/5-lesser-known-python-libraries-for-your-next-nlp-project-ff13fc652553
