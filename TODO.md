@@ -8,5 +8,13 @@
 - [ ] remove bot comments
 - [ ] deal with abbreviations containing ' (e.g. I'm)
 
+https://monkeylearn.com/blog/text-cleaning/
+https://www.analyticsvidhya.com/blog/2020/11/text-cleaning-nltk-library/
+
 ## Word Cloud ##
 - [ ] check which group of words to use (nouns?)
+
+## Statistics Dataset ##
+- [ ] length of comments 
+- [ ] removed comments
+- [ ] ...
