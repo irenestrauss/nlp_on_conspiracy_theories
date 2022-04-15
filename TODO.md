@@ -8,6 +8,8 @@
 - [ ] remove bot comments
 - [ ] remove very short comments?
 
+* https://github.com/kunanba/reddit-nlp/blob/master/Data_cleaning.ipynb
+
 ## Data Preprocessing ##
 - [ ] deal with possessive s
 - [ ] remove words like 'people'?
