@@ -12,10 +12,11 @@
 - [ ] deal with possessive s
 - [ ] remove words like 'people'?
 
-https://monkeylearn.com/blog/text-cleaning/
-https://www.analyticsvidhya.com/blog/2020/11/text-cleaning-nltk-library/
-https://github.com/britt-allen/classifying_reddit_posts/blob/master/notebooks/project_3_data_cleaning_and_eda.ipynb
-
+* https://monkeylearn.com/blog/text-cleaning/
+* https://www.analyticsvidhya.com/blog/2020/11/text-cleaning-nltk-library/
+* https://github.com/britt-allen/classifying_reddit_posts/blob/master/notebooks/project_3_data_cleaning_and_eda.ipynb
+* https://towardsdatascience.com/topic-modeling-singapores-subreddit-comments-with-natural-language-processing-336d15da3ff4
+* https://www.v7labs.com/blog/data-preprocessing-guide
 
 ## Word Cloud ##
 - [ ] check which group of words to use (nouns? adjectives?)
