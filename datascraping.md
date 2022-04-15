@@ -13,6 +13,10 @@
 * HealthConspiracy OccupyLangley
 * mysterybabylon moonhoax
 
+## Data Prefiltering ##
+* https://towardsdatascience.com/topic-modeling-singapores-subreddit-comments-with-natural-language-processing-336d15da3ff4
+* https://www.v7labs.com/blog/data-preprocessing-guide
+
 ## Data Analysis ##
 * which topics are prevalent
 * which emotions are prevalent
