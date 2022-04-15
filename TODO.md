@@ -4,8 +4,8 @@
 - [ ] scrape comments but also submissions
 
 ## Data Filtering ##
-- [ ] remove comments that are deleted
-- [ ] remove bot comments
+- [x] remove comments that are deleted
+- [x] remove bot comments
 - [ ] remove very short comments?
 
 * https://github.com/kunanba/reddit-nlp/blob/master/Data_cleaning.ipynb
@@ -24,7 +24,7 @@
 - [ ] check which group of words to use (nouns? adjectives?)
 
 ## Statistics Dataset ##
-- [ ] length of comments 
+- [x] length of comments 
 - [ ] removed comments
 - [ ] ...
 - [ ] author groups
@@ -33,8 +33,8 @@
 - [ ] submissions
 
 ## TODO Today ##
-- [ ] dokumentieren
-- [ ] statistiken
+- [x] dokumentieren
+- [x] statistiken
 https://towardsdatascience.com/5-lesser-known-python-libraries-for-your-next-nlp-project-ff13fc652553
 
 ## Schreiben ##
