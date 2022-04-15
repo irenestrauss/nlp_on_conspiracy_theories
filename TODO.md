@@ -1,18 +1,24 @@
 ## Data Scraping ##
-- [ ] add comments to file
+- [x] add comments to file
 - [ ] make progress visible
 - [ ] scrape comments but also submissions
 
-## Data Preprocessing ##
+## Data Filtering ##
 - [ ] remove comments that are deleted
 - [ ] remove bot comments
-- [ ] deal with abbreviations containing ' (e.g. I'm)
+- [ ] remove very short comments?
+
+## Data Preprocessing ##
+- [ ] deal with possessive s
+- [ ] remove words like 'people'?
 
 https://monkeylearn.com/blog/text-cleaning/
 https://www.analyticsvidhya.com/blog/2020/11/text-cleaning-nltk-library/
+https://github.com/britt-allen/classifying_reddit_posts/blob/master/notebooks/project_3_data_cleaning_and_eda.ipynb
+
 
 ## Word Cloud ##
-- [ ] check which group of words to use (nouns?)
+- [ ] check which group of words to use (nouns? adjectives?)
 
 ## Statistics Dataset ##
 - [ ] length of comments 
