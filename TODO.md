@@ -28,6 +28,9 @@
 - [ ] removed comments
 - [ ] ...
 - [ ] author groups
+- [ ] comments per day
+- [ ] subscribers
+- [ ] submissions
 
 ## TODO Today ##
 - [ ] dokumentieren
