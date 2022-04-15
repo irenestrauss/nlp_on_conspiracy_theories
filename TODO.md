@@ -36,3 +36,6 @@
 - [ ] dokumentieren
 - [ ] statistiken
 https://towardsdatascience.com/5-lesser-known-python-libraries-for-your-next-nlp-project-ff13fc652553
+
+## Schreiben ##
+https://reposit.haw-hamburg.de/bitstream/20.500.12738/8671/1/thesis.pdf
