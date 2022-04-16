@@ -33,8 +33,9 @@
 - [ ] submissions
 
 ## TODO Today ##
-- [x] dokumentieren
-- [x] statistiken
+- [ ] statistiken
+- [ ] submissions testen
+- [ ] empath 
 https://towardsdatascience.com/5-lesser-known-python-libraries-for-your-next-nlp-project-ff13fc652553
 
 ## Schreiben ##
