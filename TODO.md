@@ -43,4 +43,6 @@ https://reposit.haw-hamburg.de/bitstream/20.500.12738/8671/1/thesis.pdf
 
 ## Sentiment Analysis ##
 https://www.analyticsvidhya.com/blog/2021/06/nlp-sentiment-analysis/
+- [ ] empath visualize categories
+https://github.com/JasonKessler/scattertext
 
