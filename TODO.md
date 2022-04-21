@@ -33,9 +33,8 @@
 - [ ] submissions
 
 ## TODO Today ##
-- [ ] statistiken
-- [ ] submissions testen
-- [ ] empath 
+- [ ] extract data from february for r/conspiracy and r/science
+- [ ] extract submissions
 https://towardsdatascience.com/5-lesser-known-python-libraries-for-your-next-nlp-project-ff13fc652553
 
 ## Schreiben ##
@@ -45,4 +44,5 @@ https://reposit.haw-hamburg.de/bitstream/20.500.12738/8671/1/thesis.pdf
 https://www.analyticsvidhya.com/blog/2021/06/nlp-sentiment-analysis/
 - [ ] empath visualize categories
 https://github.com/JasonKessler/scattertext
+- [ ] https://realpython.com/python-nltk-sentiment-analysis/
 
