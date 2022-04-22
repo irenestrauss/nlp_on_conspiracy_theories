@@ -33,8 +33,8 @@
 - [ ] submissions
 
 ## TODO Today ##
-- [ ] extract data from february for r/conspiracy and r/science
-- [ ] extract submissions
+- [ ] nlp science vs conspiracy
+- [ ] nlp conspiracy
 https://towardsdatascience.com/5-lesser-known-python-libraries-for-your-next-nlp-project-ff13fc652553
 
 ## Schreiben ##
