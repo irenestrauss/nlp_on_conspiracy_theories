@@ -21,8 +21,7 @@
 * http://ceur-ws.org/Vol-2882/paper68.pdf
 * http://ceur-ws.org/Vol-2882/paper76.pdf
 * https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0233879&type=printable
-* file:///C:/Users/irina/OneDrive/Dokumente/TU%20third%20year/arxiv-version-conspiracy.pdf
-
+* https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0225098
 ## Datasets ##
 * 2020: https://datasets.simula.no/wico-graph/
 * 2021: https://dl.acm.org/doi/abs/10.1145/3472720.3483617
