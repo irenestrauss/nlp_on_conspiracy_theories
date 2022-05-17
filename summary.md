@@ -11,6 +11,7 @@
 - analyze other-condemned and self-conscious emotions
 - analyze pronouns used
 - analyze which posts are the most successful
+- liwc
 
 ## Model ##
 - logistic regression
