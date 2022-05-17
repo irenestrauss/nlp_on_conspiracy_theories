@@ -26,6 +26,8 @@
 * 2020: https://datasets.simula.no/wico-graph/
 * 2021: https://dl.acm.org/doi/abs/10.1145/3472720.3483617
 * https://www.kaggle.com/datasets/gpreda/reddit-conspiracy-theory
+* https://arxiv.org/abs/2203.02955
+* https://www.kaggle.com/datasets/dsxavier/reddit-posts-ukraine-and-economy
 
 
 ## Subreddits ##
