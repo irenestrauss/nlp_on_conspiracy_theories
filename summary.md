@@ -8,6 +8,9 @@
 
 ## Statistics ##
 - until now just simple analysis with empath -> filter and do not check for all categories
+- reading ease
+- swear words
+- polarize
 - analyze other-condemned and self-conscious emotions
 - analyze pronouns used
 - analyze which posts are the most successful
@@ -21,3 +24,4 @@
 - add grid search
 - add more advanced sentiment analysis
 - try another approach with deep learning?
+- sentiment embedding
