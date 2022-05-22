@@ -36,6 +36,8 @@
 * r/news
 * https://www.reddit.com/r/Coronavirus/
 
+## Sentiment Analysis ##
+* https://arxiv.org/ftp/arxiv/papers/1601/1601.06971.pdf
 ## Reddit tools
 * extract content https://github.com/gabrielpreda/reddit_extract_content
 
