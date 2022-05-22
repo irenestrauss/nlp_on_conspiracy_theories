@@ -29,7 +29,6 @@
 * https://arxiv.org/abs/2203.02955
 * https://www.kaggle.com/datasets/dsxavier/reddit-posts-ukraine-and-economy
 
-
 ## Subreddits ##
 * https://sciencecommunicationbreakdown.wordpress.com/2014/08/12/victoria-taylor-reddit-guest/
 * r/worldnews
@@ -38,6 +37,9 @@
 
 ## Sentiment Analysis ##
 * https://arxiv.org/ftp/arxiv/papers/1601/1601.06971.pdf
+* https://arxiv.org/pdf/1705.02673.pdf
+* https://arxiv.org/abs/2205.06863
+* file:///C:/Users/irina/Downloads/OBrien_Ward_4.22.22.pdf
 ## Reddit tools
 * extract content https://github.com/gabrielpreda/reddit_extract_content
 
