@@ -33,8 +33,11 @@
 - [ ] submissions
 
 ## TODO Today ##
-- [ ] nlp science vs conspiracy
-- [ ] nlp conspiracy
+- [x] look at ukraine dataset
+- [x] try to filter r/conspiracy
+- [ ] check new features
+- [ ] sentiments new file
+- [ ] wordcloud positive negative sentiments
 https://towardsdatascience.com/5-lesser-known-python-libraries-for-your-next-nlp-project-ff13fc652553
 
 ## Schreiben ##
