@@ -33,15 +33,19 @@
 - [ ] submissions
 
 ## TODO Today ##
-- [x] look at ukraine dataset
-- [x] try to filter r/conspiracy
-- [ ] check new features
+- [ ] Methoden beschreiben - topicfiltering
+- [ ] Statistik - beschreiben
+
+## TODO ##
+- [ ] empath
+- [ ] wordclouds
 - [ ] sentiments new file
 - [ ] wordcloud positive negative sentiments
 https://towardsdatascience.com/5-lesser-known-python-libraries-for-your-next-nlp-project-ff13fc652553
 
 ## Schreiben ##
 https://reposit.haw-hamburg.de/bitstream/20.500.12738/8671/1/thesis.pdf
+https://west.uni-koblenz.de/assets/theses/reddit_thesis_final.pdf
 
 ## Sentiment Analysis ##
 https://www.analyticsvidhya.com/blog/2021/06/nlp-sentiment-analysis/
