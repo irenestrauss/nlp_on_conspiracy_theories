@@ -33,8 +33,8 @@
 - [ ] submissions
 
 ## TODO Today ##
-- [ ] Methoden beschreiben - topicfiltering
-- [ ] Statistik - beschreiben
+- [ ] überarbeiten - sentiments + words
+- [ ] empath kategorien wählen
 
 ## TODO ##
 - [ ] empath
@@ -42,6 +42,7 @@
 - [ ] sentiments new file
 - [ ] wordcloud positive negative sentiments
 https://towardsdatascience.com/5-lesser-known-python-libraries-for-your-next-nlp-project-ff13fc652553
+- [ ] preprocessing get rid of /s
 
 ## Schreiben ##
 https://reposit.haw-hamburg.de/bitstream/20.500.12738/8671/1/thesis.pdf
@@ -52,4 +53,8 @@ https://www.analyticsvidhya.com/blog/2021/06/nlp-sentiment-analysis/
 - [ ] empath visualize categories
 https://github.com/JasonKessler/scattertext
 - [ ] https://realpython.com/python-nltk-sentiment-analysis/
+
+
+https://tugraz.webex.com/meet/reiter-haas meeting di 9 uhr
+http://www.dcs.gla.ac.uk/socinfo2022/papers.html
 

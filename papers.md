@@ -22,6 +22,10 @@
 * http://ceur-ws.org/Vol-2882/paper76.pdf
 * https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0233879&type=printable
 * https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0225098
+* https://osf.io/fbkg4/
+* https://github.com/benjamin-awd/Subreddit-Classification-with-NLP/blob/main/3_Model_Selection_Tuning_and_Insights.ipynb
+* https://aclanthology.org/2021.woah-1.18.pdf
+
 ## Datasets ##
 * 2020: https://datasets.simula.no/wico-graph/
 * 2021: https://dl.acm.org/doi/abs/10.1145/3472720.3483617
